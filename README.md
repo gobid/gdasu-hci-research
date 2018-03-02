@@ -11,7 +11,7 @@ Ideally, projects I'm involved in will:
 
 Brainstorms:
 
-[Inspired by ARS] ARS levarages senior students as a communication link between professor and undergrad and functions as a time saver. Clients in OECD countries and talented engineers around the world need a communication liason. Who is this liason -- a non-technical UI stickler in the country of the client?
+[Inspired by ARS] ARS levarages senior students as a communication link between professor and undergrad and functions as a time saver. Clients in OECD countries and talented engineers around the world need a communication liason. Who is this liason -- a patient and non-technical UI stickler in the country of the client?
 
 [Related to Understanding Trust amid Delays in Crowdfunding] This paper uncovers insights about the importance of creator transparency in keeping backer trust. In a future-of-work setting, responsiveness of the engineer and even transparency of their condition may play a similar role in keeping the trust of their manager or client. How can collaborative systems (like slack) identify and reward responsiveness? How can the systems support transparency of the worker condition so that project managers and clients can know who to hire, how to communicate, and what to plan for?
 
