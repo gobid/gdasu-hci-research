@@ -6,6 +6,6 @@ My current interests (subject to evolve) are at the intersection of collaboratio
 Ideally, projects I'm involved in will:
 - create productive and collaborative communities out of strangers on the internet
 - explore extrinsic and intrinsic motivation for skill development
-- engage checks and balances centered around work quality
-- be economically self-sufficient and hence viable solutions for global wealth and knowledge inequality
+- engage social and technical checks and balances that focus on work quality
+- be self-sufficient, economically viable solutions to global wealth and education inequality
 
