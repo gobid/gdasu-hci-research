@@ -13,3 +13,9 @@ Link to my DTR (design, technology, research) "cubby": https://drive.google.com/
 
 Link to my DTR individual progress map:
 https://docs.google.com/spreadsheets/d/1oIVc3kVQPe8fYXJc8fVqxSZxRfJg7DZjjhcEcY5jDVw/edit#gid=0
+
+Link to DTR sprints (in which mine can be found):
+https://drive.google.com/drive/u/0/folders/0Bwl9EDkZC3TKRk50cEFidjNFZ1E
+
+Link to my weekly meeting decks:
+https://drive.google.com/drive/u/0/folders/1NmqF5xcNFlFfIBXkt9NCsjqe9ZpHqO4Z
