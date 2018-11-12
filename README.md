@@ -17,5 +17,5 @@ https://docs.google.com/spreadsheets/d/1oIVc3kVQPe8fYXJc8fVqxSZxRfJg7DZjjhcEcY5j
 Link to DTR sprints (in which mine can be found):
 https://drive.google.com/drive/u/0/folders/0Bwl9EDkZC3TKRk50cEFidjNFZ1E
 
-Link to my weekly meeting decks:
+Link to my weekly meeting decks and spreadsheets:
 https://drive.google.com/drive/u/0/folders/1NmqF5xcNFlFfIBXkt9NCsjqe9ZpHqO4Z
