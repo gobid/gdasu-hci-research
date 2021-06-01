@@ -9,6 +9,17 @@ Ideally, projects I'm involved in will:
 - engage social and technical checks and balances that focus on work quality
 - be self-sufficient, economically viable solutions to global inequality (complex well-paying work, not microtasks)
 
+I have been advised by Haoqi Zhang and Nell O'Rourke in my PhD at Northwestern, and Michael Bernstein in my masters at Stanford.
+
+Contributions:
+1. Blog Post on Poverty - https://blog.learningdollars.com/2019/11/17/how-to-end-world-poverty-and-racial-power-imbalance-in-1-generation/
+2. Mentored Students who produced Knowledge Maps CHI SRC - https://dl.acm.org/doi/abs/10.1145/3334480.3381444
+3. Blog Post on Engineering Management - https://blog.learningdollars.com/2020/03/31/developer-time-tracking-using-slack-beyond-fixed-price-vs-hourly/
+
+Other blog posts - https://blog.learningdollars.com/category/ldt-culture/
+
+Northwestern PhD Related Links:
+
 Link to my weekly meeting decks and spreadsheets:
 https://drive.google.com/drive/u/0/folders/1NmqF5xcNFlFfIBXkt9NCsjqe9ZpHqO4Z
 
