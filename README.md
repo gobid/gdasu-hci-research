@@ -1,7 +1,7 @@
 # hci-research
 Gobi Dasu's HCI Research interests, ideations, projects, and writings
 
-My current interests (subject to evolve) are at the intersection of Engineer Training (with an ICT4D twist), the Future of Work, and Programming Tools.
+My current interests (subject to evolve) are at the intersection of CS Education (with an ICT4D twist), the Future of Work, and Programming Tools.
 
 Ideally, projects I'm involved in will:
 - train engineers and match them with work opportunities
