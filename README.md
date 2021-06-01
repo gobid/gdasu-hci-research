@@ -1,5 +1,5 @@
 # hci-research
-Gobi Dasu's HCI Research interests, ideations, projects, and writings
+Gobi Dasu's CS Education and HCI Research interests, ideations, projects, and writings
 
 My current interests (subject to evolve) are at the intersection of CS Education (with an ICT4D twist), the Future of Work, and Programming Tools.
 
