@@ -22,4 +22,5 @@ https://drive.google.com/drive/u/0/folders/0Bwl9EDkZC3TKRk50cEFidjNFZ1E
 
 Link to DTR research canvases: 
 https://docs.google.com/spreadsheets/d/1_O1qhO9muiFK1YsU5w4_fcA4WjrpCvgjQ3fmmr5jueQ/edit#gid=1468022061 (Practical)
-https://drive.google.com/open?id=1wbFHCqBLBC4737IDeY-Z-GMIqX3pqquw3y3H5tSMChU (research)
+
+https://drive.google.com/open?id=1wbFHCqBLBC4737IDeY-Z-GMIqX3pqquw3y3H5tSMChU (Research)
