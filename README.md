@@ -5,7 +5,7 @@ My current interests (subject to evolve) are at the intersection of CS Education
 
 **Contributions:**
 1. Blog Post on Industry Driven Educational Conditional Cash Transfer to Address World Poverty - https://blog.learningdollars.com/2019/11/17/how-to-end-world-poverty-and-racial-power-imbalance-in-1-generation/ (*inspired the Financial Incentives project I did in my masters, pdf above*)
-2. Mentored Students who produced Knowledge Maps CHI SRC - https://dl.acm.org/doi/abs/10.1145/3334480.3381444
+2. Mentored Students who produced Knowledge Maps CHI SRC - https://dl.acm.org/doi/abs/10.1145/3334480.3381444 and https://dl.acm.org/doi/abs/10.1145/3491101.3516814 (award winning)
 3. Blog Posts on Engineering Management - https://blog.learningdollars.com/2020/03/31/developer-time-tracking-using-slack-beyond-fixed-price-vs-hourly/ (*inspired the AST project I did in my masters, pdf above*)
 
 **Interests:** Ideally, projects I'm involved in will:
